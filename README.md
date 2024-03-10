@@ -36,3 +36,8 @@ This will launch a Gradio interface where you can enter your prompt in the provi
 ## Code Explanation
 
 The main functionality is in the `generate_response` function, which sends a prompt to the KodeHelper and returns the generated text. The Gradio interface is created using the `gr.Interface` class, taking input from a textbox and displaying the output as text.
+
+## Interface 
+
+
+<img width="1513" alt="Screenshot 2024-03-10 at 7 33 00 PM" src="https://github.com/vinod-polinati/KodeHelper/assets/108022173/f9210f2d-32c9-41a0-ab82-043db93fd37e">
